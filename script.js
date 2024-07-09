@@ -6,16 +6,16 @@ let masterPlay=document.getElementById('masterPlay');
 let myProgressBar=document.getElementById('myProgressBar');
 let songItems=Array.from(document.getElementsByClassName('songItem'));
 let songs=[
-    {songName:"52 bars",filePath: "songs/1.mp3",coverPath:"cover/1.jpg"},
-    {songName:"falling apart",filePath: "songs/2.mp3",coverPath:"cover/2.jpg"},
-    {songName:"wytb",filePath: "songs/3.mp3",coverPath:"cover/3.jpg"},
-    {songName:"take it easy",filePath: "songs/4.mp3",coverPath:"cover/4.jpg"},
-    {songName:"white brown black",filePath: "songs/5.mp3",coverPath:"cover/5.jpg"},
-    {songName:"players",filePath: "songs/6.mp3",coverPath:"cover/6.jpg"},
-    {songName:"on top",filePath: "songs/7.mp3",coverPath:"cover/7.jpg"},
-    {songName:"admirin you",filePath: "songs/8.mp3",coverPath:"cover/8.jpg"},
-    {songName:"ykwim",filePath: "songs/9.mp3",coverPath:"cover/9.jpg"},
-    {songName:"yeah nahh",filePath: "songs/10.mp3",coverPath:"cover/10.jpg"},
+    {songName:"52 bars",filePath: "1.mp3",coverPath:"1.jpg"},
+    {songName:"falling apart",filePath: "2.mp3",coverPath:"2.jpg"},
+    {songName:"wytb",filePath: "3.mp3",coverPath:"3.jpg"},
+    {songName:"take it easy",filePath: "4.mp3",coverPath:"4.jpg"},
+    {songName:"white brown black",filePath: "5.mp3",coverPath:"5.jpg"},
+    {songName:"players",filePath: "6.mp3",coverPath:"6.jpg"},
+    {songName:"on top",filePath: "7.mp3",coverPath:"7.jpg"},
+    {songName:"admirin you",filePath: "8.mp3",coverPath:"8.jpg"},
+    {songName:"ykwim",filePath: "9.mp3",coverPath:"9.jpg"},
+    {songName:"yeah nahh",filePath: "10.mp3",coverPath:"10.jpg"},
     
     
 ]
